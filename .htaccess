@@ -1,0 +1,7 @@
+<RequireAll>
+
+order allow,deny
+deny from 157.50.21.17
+allow from all
+
+</RequireAll>
